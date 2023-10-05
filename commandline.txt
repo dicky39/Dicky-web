@@ -1,0 +1,1 @@
+-norestrictions -availablevidmem 30.0 -memrestrict 30.0 -restrictap
